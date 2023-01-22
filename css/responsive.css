@@ -1,0 +1,28 @@
+@media  and (max-width : 1200px) {
+    .text1{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width : 768px) {
+    #teks{
+        font-size:2.3rem;
+    }
+    #teks1 p {
+        text-align: justify!important;
+    }
+
+    
+}
+@media screen and (max-width : 576px) {
+    
+
+    #teks1 p{
+        text-align: justify!important;
+    }
+
+    
+}
+@media screen and ( max-width : 350px) {
+
+    
+}
